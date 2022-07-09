@@ -9,4 +9,3 @@ RUN pip install dbt-core==1.1.0
 RUN pip install dbt-bigquery==1.1.0
 
 RUN sh script.sh
-RUN python3 invoke.py
