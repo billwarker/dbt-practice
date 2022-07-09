@@ -9,4 +9,5 @@ RUN ls
 RUN pip install dbt-core==1.1.0
 RUN pip install dbt-bigquery==1.1.0
 
+RUN dbt init
 RUN dbt run --profiles-dir .
