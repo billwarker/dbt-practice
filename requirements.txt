@@ -10,7 +10,6 @@ colorama==0.4.4
 dbt-bigquery==1.1.1
 dbt-core==1.1.1
 dbt-extractor==0.4.1
-Flask==2.1.2
 future==0.18.2
 google-api-core==2.8.2
 google-auth==2.9.0
@@ -24,7 +23,6 @@ grpcio-status==1.47.0
 hologram==0.0.15
 idna==3.3
 isodate==0.6.1
-itsdangerous==2.1.2
 Jinja2==2.11.3
 jsonschema==3.2.0
 leather==0.3.4
