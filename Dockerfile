@@ -5,6 +5,6 @@ COPY . /dbt-practice/
 
 WORKDIR /dbt-practice/
 
-RUN pip install -t requirements.txt
+RUN pip install -r requirements.txt
 
 ENTRYPOINT [ "python3", "invoke.py" ]
