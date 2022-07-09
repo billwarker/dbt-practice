@@ -7,5 +7,6 @@ WORKDIR /dbt-practice/
 
 RUN pip install dbt-core==1.1.0
 RUN pip install dbt-bigquery==1.1.0
+RUN pip install requirements.txt
 
 ENTRYPOINT [ "python3", "invoke.py" ]
