@@ -1,0 +1,24 @@
+dbt_practice:
+  target: prod
+  outputs:
+    dev:
+      type: bigquery
+      method: service-account
+      project: dbt-practice-355719
+      dataset: dbt_dev
+      threads: 4
+      keyfile: /secrets/dbt-worker
+      timeout_seconds: 300
+      priority: interactive
+      retries: 1
+    
+    prod:
+      type: bigquery
+      method: service-account
+      project: dbt-practice-355719
+      dataset: dbt_prod
+      threads: 4
+      keyfile: /secrets/dbt-worker
+      timeout_seconds: 300
+      priority: interactive
+      retries: 1

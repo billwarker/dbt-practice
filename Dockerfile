@@ -1,13 +1,12 @@
-FROM python:3.9.3
+FROM python:3.10.5
 
 RUN mkdir -p /dbt-practice/
 COPY . /dbt-practice/
 
 WORKDIR /dbt-practice/
-RUN ls
 
 RUN pip install dbt-core==1.1.0
 RUN pip install dbt-bigquery==1.1.0
 
-RUN dbt init
-RUN dbt run --profiles-dir .
+RUN sh script.sh
+RUN python3 invoke.py
