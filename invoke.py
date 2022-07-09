@@ -8,6 +8,7 @@ command = f'sh {script}'
 
 @app.route("/")
 def invoke():
+    print('Hello!')
     os.system(command)
     return command
 

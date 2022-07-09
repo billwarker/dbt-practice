@@ -7,7 +7,7 @@ dbt_practice:
       project: dbt-practice-355719
       dataset: dbt_dev
       threads: 4
-      keyfile: /secrets/dbt-worker
+      keyfile: /secrets/dbt-service-account
       timeout_seconds: 300
       priority: interactive
       retries: 1
@@ -18,7 +18,7 @@ dbt_practice:
       project: dbt-practice-355719
       dataset: dbt_prod
       threads: 4
-      keyfile: /secrets/dbt-worker
+      keyfile: /secrets/dbt-service-account
       timeout_seconds: 300
       priority: interactive
       retries: 1
