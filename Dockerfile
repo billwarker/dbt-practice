@@ -18,4 +18,6 @@ WORKDIR /dbt-practice/
 
 RUN pip install -r requirements.txt
 
+RUN gsutil cp -r . gs://will-dbt-files
+
 ENTRYPOINT [ "python3", "invoke.py" ]
