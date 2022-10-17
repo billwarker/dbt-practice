@@ -5,7 +5,6 @@ dbt_practice:
       type: bigquery
       method: service-account
       project: dbt-practice-355719
-      dataset: dbt_dev
       threads: 4
       keyfile: /secrets/dbt-service-account
       timeout_seconds: 300
@@ -16,7 +15,6 @@ dbt_practice:
       type: bigquery
       method: service-account
       project: dbt-practice-355719
-      dataset: dbt_prod
       threads: 4
       keyfile: /secrets/dbt-service-account
       timeout_seconds: 300
