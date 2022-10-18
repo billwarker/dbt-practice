@@ -1,0 +1,29 @@
+version: 2
+
+sources:
+  - name: raw_data
+    project: dbt-practice-355719
+    dataset: raw_data
+
+    # meta fields are rendered in auto-generated documentation
+    meta:
+      owner: "@Will"
+
+    # Add tags to this source
+    tags:
+      - raw
+
+    tables:
+      - name: transactions
+        columns:
+          - name: MONTH
+            description: Coded value
+          - name: STORECODE
+          - name: QTY
+          - name: VALUE
+          - name: GRP
+          - name: SGRP
+          - name: SSGRP
+          - name: CMP
+          - name: MBRD
+          - name: BRD
