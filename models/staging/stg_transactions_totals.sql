@@ -1,7 +1,7 @@
 WITH
 cte_1 AS (
     SELECT * FROM  {{ source('raw_data', 'transactions') }}
-    ),
+    )
 
 SELECT
     *,
