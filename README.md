@@ -1,3 +1,3 @@
 # dbt-practice
 
-Docs site: billwarker.github.io
+Docs site (for dev environment): https://billwarker.github.io/dbt-practice/
