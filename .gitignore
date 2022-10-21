@@ -2,4 +2,6 @@ bin
 lib
 *.cfg
 share
-target
+dbt-practice-355719-*.json
+dbt-practice-dev-*.json
+dbt_packages
