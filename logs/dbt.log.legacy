@@ -1,0 +1,171 @@
+2022-10-20 15:29:17.713373 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-10-20 15:29:17.719482 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-10-20 20:42:06.509079 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-10-20 20:42:06.515148 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-10-20 20:42:21.968479 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-10-20 20:42:21.974489 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-10-20 20:46:42.466592 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-10-20 20:46:42.472551 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-10-20 20:53:02.813247 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-10-20 20:53:02.819372 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-10-20 20:53:04.078538 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=13, family=AddressFamily.AF_INET6, type=SocketKind.SOCK_STREAM, proto=0, laddr=('2607:fea8:5c0:34f0:c8f2:ea90:d5f:5100', 63257, 0, 0), raddr=('2607:f8b0:400b:80c::200a', 443, 0, 0)>
+2022-10-20 20:53:04.078774 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=12, family=AddressFamily.AF_INET6, type=SocketKind.SOCK_STREAM, proto=0, laddr=('2607:fea8:5c0:34f0:c8f2:ea90:d5f:5100', 63256, 0, 0), raddr=('2607:f8b0:400b:80c::200a', 443, 0, 0)>
+2022-10-20 20:54:25.020703 (ThreadPoolExecutor-1_1): unclosed <ssl.SSLSocket fd=11, family=AddressFamily.AF_INET6, type=SocketKind.SOCK_STREAM, proto=0, laddr=('2607:fea8:5c0:34f0:c8f2:ea90:d5f:5100', 63273, 0, 0), raddr=('2607:f8b0:400b:80c::200a', 443, 0, 0)>
+2022-10-20 20:54:25.021872 (ThreadPoolExecutor-1_1): unclosed <ssl.SSLSocket fd=12, family=AddressFamily.AF_INET6, type=SocketKind.SOCK_STREAM, proto=0, laddr=('2607:fea8:5c0:34f0:c8f2:ea90:d5f:5100', 63274, 0, 0), raddr=('2607:f8b0:400b:80c::200a', 443, 0, 0)>
+2022-10-20 21:06:29.176788 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-10-20 21:06:29.182775 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-10-20 21:06:30.487763 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=13, family=AddressFamily.AF_INET6, type=SocketKind.SOCK_STREAM, proto=0, laddr=('2607:fea8:5c0:34f0:c8f2:ea90:d5f:5100', 63335, 0, 0), raddr=('2607:f8b0:400b:807::200a', 443, 0, 0)>
+2022-10-20 21:08:26.010641 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-10-20 21:08:26.016403 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-10-20 21:08:46.877288 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-10-20 21:08:46.883102 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-10-20 21:08:56.266826 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-10-20 21:08:56.272592 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-10-20 21:10:36.559459 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=11, family=AddressFamily.AF_INET6, type=SocketKind.SOCK_STREAM, proto=0, laddr=('2607:fea8:5c0:34f0:c8f2:ea90:d5f:5100', 63374, 0, 0), raddr=('2607:f8b0:400b:807::200a', 443, 0, 0)>
+2022-10-20 21:10:36.561271 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=12, family=AddressFamily.AF_INET6, type=SocketKind.SOCK_STREAM, proto=0, laddr=('2607:fea8:5c0:34f0:c8f2:ea90:d5f:5100', 63375, 0, 0), raddr=('2607:f8b0:400b:807::200a', 443, 0, 0)>
+2022-10-21 11:21:02.370555 (MainThread): invalid escape sequence '\s'
+2022-10-21 11:21:02.371732 (MainThread): invalid escape sequence '\s'
+2022-10-21 11:21:02.371817 (MainThread): invalid escape sequence '\s'
+2022-10-21 11:21:02.371888 (MainThread): invalid escape sequence '\s'
+2022-10-21 11:21:02.371957 (MainThread): invalid escape sequence '\s'
+2022-10-21 11:21:02.372025 (MainThread): invalid escape sequence '\s'
+2022-10-21 11:21:02.372093 (MainThread): invalid escape sequence '\s'
+2022-10-21 11:21:02.372157 (MainThread): invalid escape sequence '\s'
+2022-10-21 11:21:02.372224 (MainThread): invalid escape sequence '\s'
+2022-10-21 11:21:02.373910 (MainThread): invalid escape sequence '\g'
+2022-10-21 11:21:02.374076 (MainThread): invalid escape sequence '\g'
+2022-10-21 11:21:02.374233 (MainThread): invalid escape sequence '\g'
+2022-10-21 11:21:02.374375 (MainThread): invalid escape sequence '\g'
+2022-10-21 11:21:02.375353 (MainThread): invalid escape sequence '\g'
+2022-10-21 11:21:02.375444 (MainThread): invalid escape sequence '\g'
+2022-10-21 11:52:30.252143 (MainThread): invalid escape sequence '\s'
+2022-10-21 11:52:30.252590 (MainThread): invalid escape sequence '\s'
+2022-10-21 11:52:30.252678 (MainThread): invalid escape sequence '\s'
+2022-10-21 11:52:30.252748 (MainThread): invalid escape sequence '\s'
+2022-10-21 11:52:30.252818 (MainThread): invalid escape sequence '\s'
+2022-10-21 11:52:30.252887 (MainThread): invalid escape sequence '\s'
+2022-10-21 11:52:30.252954 (MainThread): invalid escape sequence '\s'
+2022-10-21 11:52:30.253020 (MainThread): invalid escape sequence '\s'
+2022-10-21 11:52:30.253086 (MainThread): invalid escape sequence '\s'
+2022-10-21 11:52:30.254733 (MainThread): invalid escape sequence '\g'
+2022-10-21 11:52:30.254906 (MainThread): invalid escape sequence '\g'
+2022-10-21 11:52:30.255066 (MainThread): invalid escape sequence '\g'
+2022-10-21 11:52:30.255205 (MainThread): invalid escape sequence '\g'
+2022-10-21 11:52:30.256152 (MainThread): invalid escape sequence '\g'
+2022-10-21 11:52:30.256246 (MainThread): invalid escape sequence '\g'
+2022-10-21 11:52:30.429478 (MainThread): invalid escape sequence '\s'
+2022-10-21 11:52:30.429662 (MainThread): invalid escape sequence '\s'
+2022-10-21 11:52:30.429740 (MainThread): invalid escape sequence '\s'
+2022-10-21 11:52:30.429809 (MainThread): invalid escape sequence '\s'
+2022-10-21 11:52:30.429876 (MainThread): invalid escape sequence '\s'
+2022-10-21 11:52:30.429942 (MainThread): invalid escape sequence '\s'
+2022-10-21 11:52:30.430009 (MainThread): invalid escape sequence '\s'
+2022-10-21 11:52:30.430072 (MainThread): invalid escape sequence '\s'
+2022-10-21 11:52:30.430134 (MainThread): invalid escape sequence '\s'
+2022-10-21 11:52:30.431790 (MainThread): invalid escape sequence '\g'
+2022-10-21 11:52:30.431952 (MainThread): invalid escape sequence '\g'
+2022-10-21 11:52:30.432110 (MainThread): invalid escape sequence '\g'
+2022-10-21 11:52:30.432247 (MainThread): invalid escape sequence '\g'
+2022-10-21 11:52:30.433181 (MainThread): invalid escape sequence '\g'
+2022-10-21 11:52:30.433267 (MainThread): invalid escape sequence '\g'
+2022-10-21 11:54:22.501396 (MainThread): invalid escape sequence '\s'
+2022-10-21 11:54:22.501868 (MainThread): invalid escape sequence '\s'
+2022-10-21 11:54:22.501962 (MainThread): invalid escape sequence '\s'
+2022-10-21 11:54:22.502037 (MainThread): invalid escape sequence '\s'
+2022-10-21 11:54:22.502107 (MainThread): invalid escape sequence '\s'
+2022-10-21 11:54:22.502177 (MainThread): invalid escape sequence '\s'
+2022-10-21 11:54:22.502243 (MainThread): invalid escape sequence '\s'
+2022-10-21 11:54:22.502310 (MainThread): invalid escape sequence '\s'
+2022-10-21 11:54:22.502373 (MainThread): invalid escape sequence '\s'
+2022-10-21 11:54:22.504008 (MainThread): invalid escape sequence '\g'
+2022-10-21 11:54:22.504175 (MainThread): invalid escape sequence '\g'
+2022-10-21 11:54:22.504344 (MainThread): invalid escape sequence '\g'
+2022-10-21 11:54:22.504477 (MainThread): invalid escape sequence '\g'
+2022-10-21 11:54:22.505414 (MainThread): invalid escape sequence '\g'
+2022-10-21 11:54:22.505507 (MainThread): invalid escape sequence '\g'
+2022-10-21 11:54:22.712655 (MainThread): invalid escape sequence '\s'
+2022-10-21 11:54:22.712890 (MainThread): invalid escape sequence '\s'
+2022-10-21 11:54:22.712978 (MainThread): invalid escape sequence '\s'
+2022-10-21 11:54:22.713045 (MainThread): invalid escape sequence '\s'
+2022-10-21 11:54:22.713117 (MainThread): invalid escape sequence '\s'
+2022-10-21 11:54:22.713183 (MainThread): invalid escape sequence '\s'
+2022-10-21 11:54:22.713248 (MainThread): invalid escape sequence '\s'
+2022-10-21 11:54:22.713312 (MainThread): invalid escape sequence '\s'
+2022-10-21 11:54:22.713377 (MainThread): invalid escape sequence '\s'
+2022-10-21 11:54:22.714998 (MainThread): invalid escape sequence '\g'
+2022-10-21 11:54:22.715160 (MainThread): invalid escape sequence '\g'
+2022-10-21 11:54:22.715318 (MainThread): invalid escape sequence '\g'
+2022-10-21 11:54:22.715456 (MainThread): invalid escape sequence '\g'
+2022-10-21 11:54:22.716381 (MainThread): invalid escape sequence '\g'
+2022-10-21 11:54:22.716472 (MainThread): invalid escape sequence '\g'
+2022-10-21 13:24:05.613236 (MainThread): invalid escape sequence '\s'
+2022-10-21 13:24:05.613734 (MainThread): invalid escape sequence '\s'
+2022-10-21 13:24:05.613819 (MainThread): invalid escape sequence '\s'
+2022-10-21 13:24:05.613891 (MainThread): invalid escape sequence '\s'
+2022-10-21 13:24:05.613959 (MainThread): invalid escape sequence '\s'
+2022-10-21 13:24:05.614026 (MainThread): invalid escape sequence '\s'
+2022-10-21 13:24:05.614091 (MainThread): invalid escape sequence '\s'
+2022-10-21 13:24:05.614155 (MainThread): invalid escape sequence '\s'
+2022-10-21 13:24:05.614224 (MainThread): invalid escape sequence '\s'
+2022-10-21 13:24:05.615863 (MainThread): invalid escape sequence '\g'
+2022-10-21 13:24:05.616028 (MainThread): invalid escape sequence '\g'
+2022-10-21 13:24:05.616185 (MainThread): invalid escape sequence '\g'
+2022-10-21 13:24:05.616322 (MainThread): invalid escape sequence '\g'
+2022-10-21 13:24:05.617269 (MainThread): invalid escape sequence '\g'
+2022-10-21 13:24:05.617358 (MainThread): invalid escape sequence '\g'
+2022-10-21 13:24:05.821402 (MainThread): invalid escape sequence '\s'
+2022-10-21 13:24:05.821659 (MainThread): invalid escape sequence '\s'
+2022-10-21 13:24:05.821741 (MainThread): invalid escape sequence '\s'
+2022-10-21 13:24:05.821811 (MainThread): invalid escape sequence '\s'
+2022-10-21 13:24:05.821882 (MainThread): invalid escape sequence '\s'
+2022-10-21 13:24:05.821949 (MainThread): invalid escape sequence '\s'
+2022-10-21 13:24:05.822014 (MainThread): invalid escape sequence '\s'
+2022-10-21 13:24:05.822081 (MainThread): invalid escape sequence '\s'
+2022-10-21 13:24:05.822146 (MainThread): invalid escape sequence '\s'
+2022-10-21 13:24:05.823795 (MainThread): invalid escape sequence '\g'
+2022-10-21 13:24:05.823960 (MainThread): invalid escape sequence '\g'
+2022-10-21 13:24:05.824121 (MainThread): invalid escape sequence '\g'
+2022-10-21 13:24:05.824262 (MainThread): invalid escape sequence '\g'
+2022-10-21 13:24:05.825206 (MainThread): invalid escape sequence '\g'
+2022-10-21 13:24:05.825297 (MainThread): invalid escape sequence '\g'
+2022-10-21 13:24:08.606321 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=11, family=AddressFamily.AF_INET6, type=SocketKind.SOCK_STREAM, proto=0, laddr=('2607:fea8:5c0:34f0:c8f2:ea90:d5f:5100', 64088, 0, 0), raddr=('2607:f8b0:400b:807::200a', 443, 0, 0)>
+2022-10-21 13:24:08.607155 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=13, family=AddressFamily.AF_INET6, type=SocketKind.SOCK_STREAM, proto=0, laddr=('2607:fea8:5c0:34f0:c8f2:ea90:d5f:5100', 64090, 0, 0), raddr=('2607:f8b0:400b:807::200a', 443, 0, 0)>
+2022-10-21 13:24:08.607820 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=17, family=AddressFamily.AF_INET6, type=SocketKind.SOCK_STREAM, proto=0, laddr=('2607:fea8:5c0:34f0:c8f2:ea90:d5f:5100', 64094, 0, 0), raddr=('2607:f8b0:400b:807::200a', 443, 0, 0)>
+2022-10-21 13:29:10.648669 (MainThread): unclosed <ssl.SSLSocket fd=10, family=AddressFamily.AF_INET6, type=SocketKind.SOCK_STREAM, proto=0, laddr=('2607:fea8:5c0:34f0:c8f2:ea90:d5f:5100', 64107, 0, 0), raddr=('2607:f8b0:400b:807::200a', 443, 0, 0)>
+2022-10-21 13:29:10.651384 (MainThread): unclosed <ssl.SSLSocket fd=13, family=AddressFamily.AF_INET6, type=SocketKind.SOCK_STREAM, proto=0, laddr=('2607:fea8:5c0:34f0:c8f2:ea90:d5f:5100', 64110, 0, 0), raddr=('2607:f8b0:400b:807::200a', 443, 0, 0)>
+2022-10-21 13:29:10.651586 (MainThread): unclosed <ssl.SSLSocket fd=14, family=AddressFamily.AF_INET6, type=SocketKind.SOCK_STREAM, proto=0, laddr=('2607:fea8:5c0:34f0:c8f2:ea90:d5f:5100', 64111, 0, 0), raddr=('2607:f8b0:400b:807::200a', 443, 0, 0)>
+2022-10-21 13:29:10.652767 (MainThread): unclosed <ssl.SSLSocket fd=20, family=AddressFamily.AF_INET6, type=SocketKind.SOCK_STREAM, proto=0, laddr=('2607:fea8:5c0:34f0:c8f2:ea90:d5f:5100', 64113, 0, 0), raddr=('2607:f8b0:400b:807::200a', 443, 0, 0)>
+2022-10-21 14:12:11.947812 (MainThread): unclosed <ssl.SSLSocket fd=12, family=AddressFamily.AF_INET6, type=SocketKind.SOCK_STREAM, proto=0, laddr=('2607:fea8:5c0:34f0:c8f2:ea90:d5f:5100', 64178, 0, 0), raddr=('2607:f8b0:400b:803::200a', 443, 0, 0)>
+2022-10-21 14:12:11.948397 (MainThread): unclosed <ssl.SSLSocket fd=11, family=AddressFamily.AF_INET6, type=SocketKind.SOCK_STREAM, proto=0, laddr=('2607:fea8:5c0:34f0:c8f2:ea90:d5f:5100', 64179, 0, 0), raddr=('2607:f8b0:400b:803::200a', 443, 0, 0)>
+2022-10-21 14:19:08.322600 (MainThread): invalid escape sequence '\s'
+2022-10-21 14:19:08.323793 (MainThread): invalid escape sequence '\s'
+2022-10-21 14:19:08.323880 (MainThread): invalid escape sequence '\s'
+2022-10-21 14:19:08.323950 (MainThread): invalid escape sequence '\s'
+2022-10-21 14:19:08.324017 (MainThread): invalid escape sequence '\s'
+2022-10-21 14:19:08.324086 (MainThread): invalid escape sequence '\s'
+2022-10-21 14:19:08.324154 (MainThread): invalid escape sequence '\s'
+2022-10-21 14:19:08.324217 (MainThread): invalid escape sequence '\s'
+2022-10-21 14:19:08.324283 (MainThread): invalid escape sequence '\s'
+2022-10-21 14:19:08.325903 (MainThread): invalid escape sequence '\g'
+2022-10-21 14:19:08.326067 (MainThread): invalid escape sequence '\g'
+2022-10-21 14:19:08.326230 (MainThread): invalid escape sequence '\g'
+2022-10-21 14:19:08.326369 (MainThread): invalid escape sequence '\g'
+2022-10-21 14:19:08.327297 (MainThread): invalid escape sequence '\g'
+2022-10-21 14:19:08.327385 (MainThread): invalid escape sequence '\g'
+2022-10-21 14:19:08.500831 (MainThread): invalid escape sequence '\s'
+2022-10-21 14:19:08.501013 (MainThread): invalid escape sequence '\s'
+2022-10-21 14:19:08.501091 (MainThread): invalid escape sequence '\s'
+2022-10-21 14:19:08.501160 (MainThread): invalid escape sequence '\s'
+2022-10-21 14:19:08.501227 (MainThread): invalid escape sequence '\s'
+2022-10-21 14:19:08.501294 (MainThread): invalid escape sequence '\s'
+2022-10-21 14:19:08.501360 (MainThread): invalid escape sequence '\s'
+2022-10-21 14:19:08.501425 (MainThread): invalid escape sequence '\s'
+2022-10-21 14:19:08.501487 (MainThread): invalid escape sequence '\s'
+2022-10-21 14:19:08.503088 (MainThread): invalid escape sequence '\g'
+2022-10-21 14:19:08.503253 (MainThread): invalid escape sequence '\g'
+2022-10-21 14:19:08.503411 (MainThread): invalid escape sequence '\g'
+2022-10-21 14:19:08.503545 (MainThread): invalid escape sequence '\g'
+2022-10-21 14:19:08.504483 (MainThread): invalid escape sequence '\g'
+2022-10-21 14:19:08.504575 (MainThread): invalid escape sequence '\g'
+2022-10-21 14:19:09.234140 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=13, family=AddressFamily.AF_INET6, type=SocketKind.SOCK_STREAM, proto=0, laddr=('2607:fea8:5c0:34f0:c8f2:ea90:d5f:5100', 64222, 0, 0), raddr=('2607:f8b0:400b:80c::200a', 443, 0, 0)>
+2022-10-21 14:19:09.235038 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=12, family=AddressFamily.AF_INET6, type=SocketKind.SOCK_STREAM, proto=0, laddr=('2607:fea8:5c0:34f0:c8f2:ea90:d5f:5100', 64223, 0, 0), raddr=('2607:f8b0:400b:80c::200a', 443, 0, 0)>
