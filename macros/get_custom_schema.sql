@@ -11,6 +11,7 @@
             {# Concat the subfolder(s) name #}
             {% set prefix = node.fqn[1:-1]|join('_') %}
             {{ prefix | trim }}
+
         {% endif %}
 
     {%- else -%}
