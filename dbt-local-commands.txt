@@ -1,0 +1,2 @@
+dbt docs generate --target dev --profiles-dir .
+dbt run --target dev --profiles-dir .
