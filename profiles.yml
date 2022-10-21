@@ -4,10 +4,10 @@ dbt_practice:
     dev:
       type: bigquery
       method: service-account
-      project: dbt-practice-355719
-      dataset: dbt_dev
+      project: dbt-practice-dev
+      dataset: dev
       threads: 4
-      keyfile: /secrets/dbt-service-account
+      keyfile: dbt-practice-dev-acbb32f43642.json
       timeout_seconds: 300
       priority: interactive
       retries: 1
@@ -16,7 +16,7 @@ dbt_practice:
       type: bigquery
       method: service-account
       project: dbt-practice-355719
-      dataset: dbt_prod
+      dataset: prod
       threads: 4
       keyfile: /secrets/dbt-service-account
       timeout_seconds: 300
